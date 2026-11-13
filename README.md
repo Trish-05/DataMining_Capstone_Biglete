@@ -387,7 +387,26 @@ The convergent findings from both Python feature importance analysis and the Ora
 
 ---
 
-## 8. References
+## 8. Tools & Technologies Used
+
+| Category | Tool / Library | Role in Pipeline |
+|---|---|---|
+| **Cloud Data Warehouse** | Google BigQuery | SQL querying, schema verification, and in-cloud median-split segmentation |
+| **Programming & Environment** | Python 3, Google Colab | End-to-end preprocessing, feature engineering, model training, and visualization |
+| **Python Data & ML Libraries** | `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn` | Data cleaning, `StandardScaler`, one-hot encoding, classifier training, and metric plots |
+| **Visual Data Mining Tool** | Orange Data Mining (`.ows`) | No-code workflow validation, 10-fold stratified cross-validation, ROC curves, and Tree Viewer |
+| **Version Control & Hosting** | GitHub | Code, dataset, workflow, and documentation hosting |
+
+---
+
+## 9. Instructions for Reproducing the Analysis
+
+1. **Clone or Download the Repository:**
+   ```bash
+   git clone [https://github.com/Trish-05/DataMining_Capstone_Biglete.git](https://github.com/Trish-05/DataMining_Capstone_Biglete.git)
+   cd DataMining_Capstone_Biglete
+
+## 10. References
 
 Albert, J. R. G., Abrigo, M. R. M., Quimba, F. M. A., & Vizmanos, J. F. V. (2020). *Poverty, the middle class, and income distribution amid COVID-19* (PIDS Discussion Paper Series No. 2020-22). Philippine Institute for Development Studies. https://pidswebs.pids.gov.ph/CDN/PUBLICATIONS/pidsdps2022.pdf
 
