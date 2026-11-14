@@ -1,7 +1,9 @@
 # Classifying Philippine Household Personal Care & Lifestyle Spending Tiers Using Machine Learning
 
 **Author:** Trisha A. Biglete
+
 **Program:** BS Computer Science — University of Perpetual Help System Laguna
+
 **Course:** Data Mining Capstone
 
 ---
