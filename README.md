@@ -2,7 +2,7 @@
 
 **Author:** Trisha A. Biglete
 
-**Program:** BS Computer Science — University of Perpetual Help System Laguna
+**Program:** BSCS - J3A
 
 **Course:** Data Mining Capstone
 
